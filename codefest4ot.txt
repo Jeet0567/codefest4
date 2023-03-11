@@ -1,0 +1,6 @@
+Enter formula for testcase #1: 4+2
+Enter answer for testcase #1: 6
+Case #1: true
+Enter formula for testcase #2: 9+5/8
+Enter answer for testcase #2: 55
+Case #2: false
